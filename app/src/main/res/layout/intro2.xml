@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:src="@drawable/fond"
+            android:padding="1dp"
+            android:scaleType="fitXY"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/appmanager" />
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Orange Developer Center"
+        android:textColor="@color/text"
+        android:id="@+id/text2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="5dp"/>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="Powered by"
+        android:textColor="@color/text"
+        android:id="@+id/text1"
+        android:layout_above="@+id/text2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+    <ImageView
+        android:id="@+id/orange"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/orange"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:scaleType="fitXY"/>
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="30dp"
+        android:id="@+id/fab"
+        android:layout_toLeftOf="@+id/orange"
+        android:src="@drawable/fablab"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:scaleType="fitXY"/>
+
+
+
+</RelativeLayout>

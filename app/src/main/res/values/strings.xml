@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppParent</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="inscrit"><u>  inscrire</u></string>
+    <string name="host">roomyrtcserver.herokuapp.com/</string>
+    <string name="string_desc">\@string/desc</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".Fragments.SimpleFragment">
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <ImageView
+            android:id="@+id/imageCenter"
+            android:layout_weight="3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/appeler_menu"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_height="30dp"
+            android:layout_width="200dp"
+            android:text="Appeler"
+            android:id="@+id/btCentral"
+            android:textColor="@color/text"
+            android:gravity="center"
+            android:background="@drawable/petit_but"
+            android:scaleType="fitXY"
+            android:layout_below="@+id/imageCenter"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="32dp" />
+
+
+    </RelativeLayout>
+
+</FrameLayout>
