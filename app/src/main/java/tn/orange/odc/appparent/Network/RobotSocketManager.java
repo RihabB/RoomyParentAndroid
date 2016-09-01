@@ -23,6 +23,7 @@ public class RobotSocketManager {
         if (robotControllingSocket == null)
             try {
                 robotControllingSocket =  IO.socket(ApiConstants.CHAT_SERVER_URL);
+                robotControllingSocket.connect();
             } catch (URISyntaxException e) {
 
                 Log.d("robot socket",e.getMessage());

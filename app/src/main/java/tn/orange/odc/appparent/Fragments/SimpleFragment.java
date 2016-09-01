@@ -12,7 +12,7 @@ import android.widget.ImageView;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
-import tn.orange.odc.appparent.AppelActivity;
+
 import tn.orange.odc.appparent.CalenderActivity;
 import tn.orange.odc.appparent.MainActivity;
 import tn.orange.odc.appparent.R;

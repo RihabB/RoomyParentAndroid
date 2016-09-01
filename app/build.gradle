@@ -4,6 +4,12 @@ android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
 
+
+    sourceSets.main {
+        jniLibs.srcDir 'libs'
+        jni.srcDirs = [] //disable automatic ndk-build call
+    }
+
     defaultConfig {
         applicationId "tn.orange.odc.appparent"
         minSdkVersion 15
@@ -33,7 +39,7 @@ dependencies {
     compile 'com.squareup.retrofit2:converter-gson:2.0.2'
     compile 'com.squareup.okhttp3:logging-interceptor:3.2.0'
     compile 'com.github.nkzawa:socket.io-client:0.3.0'
-    compile 'io.pristine:libjingle:8871@aar'
+
     compile 'com.github.sembozdemir:ViewPagerArrowIndicator:1.0.0'
     compile 'me.dm7.barcodescanner:zxing:1.8.4'
 
@@ -46,6 +52,10 @@ dependencies {
     compile('com.google.apis:google-api-services-calendar:v3-rev208-1.22.0') {
         exclude group: 'org.apache.httpcomponents'
     }
+
+
+    compile files('libs/autobanh.jar')
+    compile files('libs/libjingle_peerconnection.jar')
 
 }
 

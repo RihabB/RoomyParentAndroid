@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RoomyParentAndroid.iml" filepath="$PROJECT_DIR$/RoomyParentAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/roomyAppParent-master.iml" filepath="$PROJECT_DIR$/roomyAppParent-master.iml" />
     </modules>
   </component>
 </project>

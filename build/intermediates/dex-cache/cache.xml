@@ -1,2 +1,306 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_6b75cd9ac80e03ec83adf306624e3c51d6aebb8e.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_52e8b77bac4735cb19bae7bf3623e79513b3799f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_0fc69056216ce6b1384dc42d0ded493bbcd63f7f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_a9cd92d97605695e4879ae1222439ced1ab286d2.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_82dfab84685e3ef7d606d1746cb1d2ce1f4f427c.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.2_09f8c3a3a1f7facea7f451607424ebc13cdf43ef.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1735915c6aa271778e1eba520b33b5a56dd917af">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/instant-run_c6dee442643fad16c10be501e72e66ef186cd322.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.2.0_14529cb95cd9399d60df5d905da38c82114ca20f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_866a0c6eecdb75a3191c883182fb81b81c6183cb.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_9b6d1e2e599e32be6a4086d4103bad18cfcb035f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/engine.io-client-0.3.1_30b9e8dcb43d1d49c8d49fd1fa7b35b12833f938.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4cceb6c86ecbeaee3cc84f83b82a6a7bfe8704c">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection_5add52e34170f459134bcf59604bd1931f53509d.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_8f8188d6271d2b99848daf710860003ba415cfe2.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_2871ab5b78220f38a5dcc1c30ee979b1de804dc5.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/core-3.2.1_b01263655eebea8abddc8ccfdeb5e09fcdf6f752.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.0_883ef62a426904f93e6048e2a5c1abb0fb7f1f8f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.22.0_110d6329f2aa9c7cb0a85811cdd3e42a8a31d8ac.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/libs/autobanh.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/autobanh_436ec9471a42b19bf9da6349dc431d3d364a8efd.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/gson-2.6.1_45f566ce696f3103544c36563d1accc188a93c3f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_98c76be2d02b7201088cba5c8dd460ce01fdc930.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.2_23fc7e3cf363c61adb7b1beec488ef3f1804911f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f3743e36a0b649e02afc5c6b3575dc67e4554b45.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-zxing-1.8.4_b0f935bd5e2b8a2968ad890461264768664005c9.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-core-1.8.4_542d6d8666cd9e9fa3064214c4e1e9e9d3289212.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/google-http-client-1.22.0_da1491a3453cbbb46f5e6f0433906d41c1671e4d.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_eb5d44c840f48ce725fef6a047bd39d85c423c38.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.github.sembozdemir/ViewPagerArrowIndicator/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82176abeb658359d6e491166a22ab9d21c3704bc">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.github.sembozdemir-ViewPagerArrowIndicator-1.0.0_fc141deaab721b16133acbfb72498274f2b68b74.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-calendar/v3-rev208-1.22.0/f0da3b784380c4c195ebf39117c752239781a9e5/google-api-services-calendar-v3-rev208-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0da3b784380c4c195ebf39117c752239781a9e5">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/google-api-services-calendar-v3-rev208-1.22.0_4b29d140e2ae785b4155d86ecab5e0fc01b9dcb8.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_7a6eea687cd563980ba727066daf03669eaf445f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.22.0_d05315ed2561c2eb25c1e78eafee166b7848bc19.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.22.0_9f2f329b2d5e86de9fe83991d71a81893eddf95a.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_5494c291720ecb69f0b6193a5671cacda1f8aa4f.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_7cfc6d2e2ad490954d015812d7f9d2db1beb6abe.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/pub.devrel-easypermissions-0.1.5_b686827bb5c6a019468636e90deae26b21791482.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_25ea85e2ad69be8eb962b02f74c8662ef4ffd4b5.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/socket.io-client-0.3.0_af5812fa9125818cc88adaf9c09f2bde2011259a.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1b52e0d3578f5df454b59b405f8300a5decaf61">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_811186d5cb14b051e373ac745443ed1580617274.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.22.0_c7c2b17329a47cfa3a7b720be8cc2a980cb1f725.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_b1b49391c1723f8fc183ba3e8b43298a1fc05779.jar" />
+    </item>
+    <item
+        jar="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1710e1f67cc904403364d8a9815f5918d81f9a3d.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_cae77575c72af2954809acb03e62014229e653e3.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/google-api-client-1.22.0_af76e659c9529f005deedbcfc0a6220d47ddc930.jar" />
+    </item>
+    <item
+        jar="/Users/odc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/odc/Documents/amineProject/RoomyParentAndroid/app/build/intermediates/pre-dexed/debug/okio-1.6.0_524a9bb52b99c50c8a2908eeb833cecd6d12a9b7.jar" />
+    </item>
+
+</items>

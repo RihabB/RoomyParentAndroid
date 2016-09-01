@@ -10,5 +10,5 @@ public class ApiConstants {
     public static String PARAM_VALUE_OFF = "0";
     public static String PARAM_VALUE_ON = "1";
 
-    public static String CHAT_SERVER_URL = "http://192.168.2.1:3000";
+    public static String CHAT_SERVER_URL = "https://rommyserver2.herokuapp.com";
 }
